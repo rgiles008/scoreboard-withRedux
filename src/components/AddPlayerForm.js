@@ -1,4 +1,4 @@
-import React, { Component, PropTypes } from 'react';npm 
+import React, { Component, PropTypes } from 'react';
 
 export default class AddPlayerForm extends Component {
     static propTypes = {
